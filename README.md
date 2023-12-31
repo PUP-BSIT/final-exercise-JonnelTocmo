@@ -1,1 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nn2YhwXT)
+description: Explore the world of Jonenl Tocmo through a captivating journey 
+on https://tocmo-jonnel.netlify.app/ . Immerse yourself in a gallery 
+showcasing Jonnel's creative works, gain insights into personal goals and 
+reflections in the journals section, and connect by leaving your thoughts 
+in the comments. Discover the essence of [Your Name]'s unique perspective 
+and passion through this online showcase of talent and inspiration.
+link: https://tocmo-jonnel.netlify.app/
