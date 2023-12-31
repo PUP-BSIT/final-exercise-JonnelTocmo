@@ -142,11 +142,11 @@ header {
     padding: 20px;
   }
   
-.journal {
+.journal-list {
     text-align: center;
     color: #fff;
 }
 
-.journal p {
+.journal-list p {
     text-align: justify;
 }
